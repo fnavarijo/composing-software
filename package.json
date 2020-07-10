@@ -1,0 +1,14 @@
+{
+  "name": "composing-software",
+  "version": "1.0.0",
+  "description": "A bucket where I cant experiment with software composition lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Navarijo",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
